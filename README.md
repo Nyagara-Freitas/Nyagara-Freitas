@@ -1,6 +1,11 @@
 # 💫 About Me:
-Olá, meu nome é Nyágara.
+<h1 align="center">Hi there 👋, I'm Nyágara Veras de Freitas</h1>
 
+<div> <p align="center"> Welcome to my GitHub profile! </p> </div>
+
+- 📚 Studying **Analysis and Systems Development** at Universidade Federal de Mato Grosso do Sul - UFMS
+
+- 🎓 Bachelor in **Architecture and Urbanism** from Universidade Paulista - Unip
 
 ## 🌐 Socials:
 
