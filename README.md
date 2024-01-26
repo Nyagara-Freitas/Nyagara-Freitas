@@ -3,7 +3,7 @@
 
 <div> <p align="center"> Welcome to my GitHub profile! </p> </div>
 
-- 📚 Studying **Analysis and Systems Development** at Universidade Federal de Mato Grosso do Sul - UFMS
+- 📚 Studying **Information Technology** at Universidade Federal de Mato Grosso do Sul - UFMS
 
 - 🎓 Bachelor in **Architecture and Urbanism** from Universidade Paulista - Unip
 
