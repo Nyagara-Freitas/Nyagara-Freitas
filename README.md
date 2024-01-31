@@ -1,7 +1,10 @@
-# 💫 About Me:
-<h1 align="center">Hi there 👋, I'm Nyágara Veras de Freitas</h1>
+<h1 align="center">Hi there 👋, I'm Nyágara de Freitas</h1>
 
 <div> <p align="center"> Welcome to my GitHub profile! </p> </div>
+
+## 💫 About Me:
+
+<p align="left"> I have a constant desire to create and develop solutions, improvements and innovations. I am always open to new opportunities for challenge and growth.
 
 - 📚 Studying **Information Technology** at Universidade Federal de Mato Grosso do Sul - UFMS
 
@@ -12,7 +15,7 @@
  <p align="left"> <a href = "mailto:nyagara1.freitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nyagara-veras-de-freitas-94076712b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
  <!--[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
