@@ -51,7 +51,7 @@
 
 
           
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nyagara-Freitas&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -60,3 +60,5 @@
 [![](https://visitcount.itsvg.in/api?id=Nyagara-Freitas&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
