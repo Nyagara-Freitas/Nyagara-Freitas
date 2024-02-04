@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-<p align="left"> I have a constant desire to create and develop solutions, improvements and innovations. I am always open to new opportunities for challenge and growth.
+- 💁‍♀️ I have a constant desire to create and develop solutions, improvements and innovations. I am always open to new opportunities for challenge and growth.
 
 - 📚 Studying **Information Technology** at Universidade Federal de Mato Grosso do Sul - UFMS
 
@@ -35,6 +35,8 @@
    <img align="center" alt="ny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
    <img align="center" alt="ny-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="ny-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+   <img align="center" alt="ny-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="ny-GitHub" height="30" width="40" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/6297162.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNzMzNzY2NiwicSI6bnVsbCwiaWF0IjoxNzA3MDc4NDY2fQ__.ab52f91506e7d54054ab1a1a8871b85dd6d9906e5112903b0620ccdad3d053b5">
    <img align="center" alt="ny-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
    <img align="center" alt="ny-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
    <img align="center" alt="ny-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
