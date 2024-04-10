@@ -31,7 +31,8 @@
  <!--[![Adobe Illustrator]() 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ]
 <img align="center" alt="ny-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
-<img align="center" alt="ny-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">-->
+<img align="center" alt="ny-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img align="center" alt="ny-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
 
 <div style="display: inline_block"><br>
    <img align="center" alt="ny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
@@ -39,7 +40,7 @@
    <img align="center" alt="ny-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
    <img align="center" alt="ny-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="ny-GitHub" height="35" width="40" src="https://github.com/Nyagara-Freitas/Nyagara-Freitas/blob/main/icons8-github.svg">
-   <img align="center" alt="ny-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+   <img align="center" alt="ny-Java" height="40" width="50" src="https://github.com/Nyagara-Freitas/Nyagara-Freitas/blob/main/icons8-logo-java-coffee-cup.svg"> 
    <img align="center" alt="ny-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
    <img align="center" alt="ny-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
    <img align="center" alt="ny-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -48,7 +49,6 @@
    <img align="center" alt="ny-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
 
 </div>
-
 
           
 ## 📊 GitHub Stats:
