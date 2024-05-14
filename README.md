@@ -12,9 +12,12 @@
 
 ## 🌐 Socials:
 
- <p align="left"> <a href = "mailto:nyagara1.freitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nyagara-veras-de-freitas-94076712b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+ <div align="left">
+  <a target="_blank" href="mailto:nyagara1.freitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=9370DB"></img></a>
+  <a href="https://www.linkedin.com/in/nyagara-veras-de-freitas-94076712b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=9370DB"></a>
+</div>
+
+
 ## 💻 Tech Stack:
 
  <!--[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,10 +35,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ]
 <img align="center" alt="ny-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 <img align="center" alt="ny-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-<img align="center" alt="ny-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
+<img align="center" alt="ny-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<img align="center" alt="ny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-->
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="ny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+   
    <img align="center" alt="ny-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="ny-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
    <img align="center" alt="ny-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -52,9 +56,18 @@
 
           
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nyagara-Freitas&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <a href="https://github.com/Nyagara-Freitas">
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nyagara-Freitas&show_icons=true&theme=transparent&text_color=dc4fc2&title_color=9370DB&icon_color=9370DB">
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyagara-Freitas&layout=compact&langs_count=7&theme=transparent&text_color=dc4fc2&title_color=9370DB&icon_color=9370DB">
+</div>
+<br>
+
+ <!--
+![](https://github-readme-stats.vercel.app/api?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nyagara-Freitas&theme=radical&hide_border=false)<br/> -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nyagara-Freitas&icon=5&color=5)](https://visitcount.itsvg.in)
