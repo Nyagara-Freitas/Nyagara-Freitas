@@ -15,7 +15,7 @@
  <div align="left">
   <a target="_blank" href="mailto:nyagara1.freitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=9370DB"></img></a>
   <a href="https://www.linkedin.com/in/nyagara-veras-de-freitas-94076712b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=9370DB"></a>
-</div>
+ </div>
 
 
 ## 💻 Tech Stack:
@@ -61,8 +61,7 @@
   <a href="https://github.com/Nyagara-Freitas">
   <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Nyagara-Freitas&show_icons=true&theme=transparent&text_color=dc4fc2&title_color=9370DB&icon_color=9370DB">
   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyagara-Freitas&layout=compact&langs_count=7&theme=transparent&text_color=dc4fc2&title_color=9370DB&icon_color=9370DB">
-</div>
-<br>
+</div> <br>
 
  <!--
 ![](https://github-readme-stats.vercel.app/api?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyagara-Freitas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
