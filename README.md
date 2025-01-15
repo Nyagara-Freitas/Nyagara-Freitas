@@ -42,6 +42,7 @@
    
    <img align="center" alt="ny-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="ny-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+   <img align="center" alt="ny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="ny-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="ny-GitHub" height="35" width="40" src="https://github.com/Nyagara-Freitas/Nyagara-Freitas/blob/main/icons8-github.svg">
    <img align="center" alt="ny-Java" height="40" width="50" src="https://github.com/Nyagara-Freitas/Nyagara-Freitas/blob/main/icons8-logo-java-coffee-cup.svg"> 
